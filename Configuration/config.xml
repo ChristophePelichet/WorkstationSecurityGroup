@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<configuration>
+	<appSettings>
+		<!-- Debug -->
+		<add Key="debug" 				Value="1"/>
+		<!-- Filer AD -->
+		<add Key="filter_computer_name" Value="To_Be_Completed" />
+		<!-- Group AD -->
+		<add Key="security_group_name" Value="To_Be_Completed" />
+		<!-- Module Email -->
+		<add Key="email_report" 		Value="1" />
+		<add Key="email_subject" 		Value="Reporting Security Group" />
+		<add Key="email_from" 			Value="To_Be_Completed" />					
+		<add Key="email_to" 			Value="To_Be_Completed" />						
+		<add Key="email_server" 		Value="To_Be_Completed" />									
+		<add Key="email_port"			Value="25"/>
+    </appSettings>
+</configuration>
