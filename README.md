@@ -1,5 +1,7 @@
 # WorkstationSecurityGroup
 
+[![CodeQL](https://github.com/ChristophePelichet/WorkstationSecurityGroup/workflows/PSScriptAnalyzer/badge.svg)](https://github.com/ChristophePelichet/WorkstationSecurityGroup/actions?query=workflow%3APSScriptAnalyzer)
+
 Script to check that a specified type of machine is in a specific security group, to add them as needed and to make a report by email.
 
 ## Configuration
